@@ -1,0 +1,17 @@
+{
+  "name": "Stats",
+  "version": "1.0.0",
+  "description": "Collecting videos from popular categories on YouTube",
+  "main": "scraping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terence Li",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "fs": "0.0.2",
+    "googleapis": "^2.1.6",
+    "lodash": "^3.10.1"
+  }
+}
